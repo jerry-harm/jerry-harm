@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-这是一个根本不会写代码的家伙的仓库（
 
 <!--
 **jerry-harm/jerry-harm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
